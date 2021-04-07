@@ -8,4 +8,7 @@ voidmain()
 	int d=a%b;
 	int e=a/b;
 	printf("%d",c);
+	printf("%d",d);
+	printf("%d",e);
+
 }
